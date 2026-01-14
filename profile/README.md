@@ -39,15 +39,17 @@
 </br>
 
 ## 시스템 아키텍처 
+<img width="644" height="449" alt="image" src="https://github.com/user-attachments/assets/99c45797-43d6-4fc1-b551-701ede1f111e" />
 
-
-## API
 
 ### 👬 멤버 구성 
 |name|김윤아|유일한|
 |---|---|---|
-|Profile|img|img|
-|role|Leader </br> Backend </br> DevOps|Frontend|
+|Profile|<img width="408" height="406" alt="image" src="https://github.com/user-attachments/assets/2d4a06c5-2fcf-42d1-82f7-ec1a8b706e49" />
+|<img width="410" height="410" alt="image" src="https://github.com/user-attachments/assets/46188fce-3002-44db-ad26-cfd61e9d54bf" />
+|
+|role|Backend </br> DevOps|Frontend|
+
 
 
 
