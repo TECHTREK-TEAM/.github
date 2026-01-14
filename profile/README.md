@@ -8,7 +8,7 @@
 ## ⚙️ 기술 스택
 |Area|Tech Stack|
 |------|---|
-|Frontend|테스트2|
+|Frontend|<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=TypeScript&logoColor=#3178C6"> |
 |Backend|테스트2|
 |DevOps|테스트2|
 |Monitoring|테스트2|
@@ -26,3 +26,4 @@
 ## API
 
 ### 👬 멤버 구성 
+
