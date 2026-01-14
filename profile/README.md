@@ -45,10 +45,11 @@
 ### 👬 멤버 구성 
 |name|김윤아|유일한|
 |---|---|---|
-|Profile|<img width="408" height="406" alt="image" src="https://github.com/user-attachments/assets/2d4a06c5-2fcf-42d1-82f7-ec1a8b706e49" />
-|<img width="410" height="410" alt="image" src="https://github.com/user-attachments/assets/46188fce-3002-44db-ad26-cfd61e9d54bf" />
+|Profile|<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/2d4a06c5-2fcf-42d1-82f7-ec1a8b706e49" />
+|<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/46188fce-3002-44db-ad26-cfd61e9d54bf" />
 |
 |role|Backend </br> DevOps|Frontend|
+
 
 
 
